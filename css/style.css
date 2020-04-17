@@ -1,0 +1,20 @@
+input,
+label {
+    display: block;
+}
+
+.simple-form {
+    margin: 1em;
+    width: 10em;
+    display: inline-block;
+
+}
+
+.form-field {
+    margin-bottom: 0.5em;
+}
+
+.forms-container {
+    display: inline-block;
+}
+

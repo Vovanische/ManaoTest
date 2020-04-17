@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<userDB>
+    <user>
+        <login>11</login>
+        <password>a36b8eab59723d584dff4741b5959396</password>
+        <email>11</email>
+        <name>123</name>
+    </user>
+    <user>
+        <login>12</login>
+        <password>a36b8eab59723d584dff4741b5959396</password>
+        <email>11</email>
+        <name>123</name>
+        <active>true</active>
+    </user>
+    <user>
+        <login>13</login>
+        <password>a36b8eab59723d584dff4741b5959396</password>
+        <email>11</email>
+        <name>123</name>
+    </user>
+    <user>
+        <login>Bob</login>
+        <password>a36b8eab59723d584dff4741b5959396</password>
+        <email>bob@email</email>
+        <name>123</name>
+    </user>
+</userDB>
